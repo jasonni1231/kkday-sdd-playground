@@ -1,0 +1,35 @@
+{
+  "id": "approval_1767773392211_h62pa23cj",
+  "title": "Web Calculator Requirements",
+  "filePath": ".spec-workflow/specs/web-calculator/requirements.md",
+  "type": "document",
+  "status": "needs-revision",
+  "createdAt": "2026-01-07T08:09:52.212Z",
+  "category": "spec",
+  "categoryName": "web-calculator",
+  "response": "Feedback Summary (2 comments):\n\nGeneral Comments:\n1. 主要顏色請使用 #26bec9\n\nSpecific Text Comments:\n1. \"不應該執行任意的 JavaScript 程式碼（避免 eval）\": 可以執行 JavaScript 程式碼\n",
+  "annotations": "{\n  \"decision\": \"needs-revision\",\n  \"comments\": [\n    {\n      \"type\": \"selection\",\n      \"comment\": \"可以執行 JavaScript 程式碼\",\n      \"timestamp\": \"2026-01-07T08:14:39.004Z\",\n      \"selectedText\": \"不應該執行任意的 JavaScript 程式碼（避免 eval）\",\n      \"highlightColor\": {\n        \"bg\": \"rgba(255, 235, 59, 0.3)\",\n        \"border\": \"#FFEB3B\",\n        \"name\": \"#ffeb3b\"\n      },\n      \"id\": \"comment_1767773679004_id4by2q7h\",\n      \"startOffset\": 3365,\n      \"endOffset\": 3397\n    },\n    {\n      \"type\": \"general\",\n      \"comment\": \"主要顏色請使用 #26bec9\",\n      \"timestamp\": \"2026-01-07T08:17:22.283Z\",\n      \"id\": \"comment_1767773842283_p5nqw8jzz\"\n    }\n  ],\n  \"summary\": \"Feedback Summary (2 comments):\\n\\nGeneral Comments:\\n1. 主要顏色請使用 #26bec9\\n\\nSpecific Text Comments:\\n1. \\\"不應該執行任意的 JavaScript 程式碼（避免 eval）\\\": 可以執行 JavaScript 程式碼\\n\",\n  \"timestamp\": \"2026-01-07T08:17:37.391Z\"\n}",
+  "respondedAt": "2026-01-07T08:17:37.402Z",
+  "comments": [
+    {
+      "type": "selection",
+      "comment": "可以執行 JavaScript 程式碼",
+      "timestamp": "2026-01-07T08:14:39.004Z",
+      "selectedText": "不應該執行任意的 JavaScript 程式碼（避免 eval）",
+      "highlightColor": {
+        "bg": "rgba(255, 235, 59, 0.3)",
+        "border": "#FFEB3B",
+        "name": "#ffeb3b"
+      },
+      "id": "comment_1767773679004_id4by2q7h",
+      "startOffset": 3365,
+      "endOffset": 3397
+    },
+    {
+      "type": "general",
+      "comment": "主要顏色請使用 #26bec9",
+      "timestamp": "2026-01-07T08:17:22.283Z",
+      "id": "comment_1767773842283_p5nqw8jzz"
+    }
+  ]
+}

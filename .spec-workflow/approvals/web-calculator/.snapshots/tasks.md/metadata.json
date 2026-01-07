@@ -1,0 +1,22 @@
+{
+  "filePath": ".spec-workflow/specs/Web-Calculator/tasks.md",
+  "currentVersion": 2,
+  "snapshots": [
+    {
+      "version": 1,
+      "filename": "snapshot-001.json",
+      "timestamp": "2026-01-07T08:32:33.152Z",
+      "trigger": "initial",
+      "approvalId": "approval_1767774753149_1hyi9empn",
+      "approvalTitle": "Web-Calculator Tasks Document"
+    },
+    {
+      "version": 2,
+      "filename": "snapshot-002.json",
+      "timestamp": "2026-01-07T08:48:53.904Z",
+      "trigger": "approved",
+      "approvalId": "approval_1767774753149_1hyi9empn",
+      "approvalTitle": "Web-Calculator Tasks Document"
+    }
+  ]
+}

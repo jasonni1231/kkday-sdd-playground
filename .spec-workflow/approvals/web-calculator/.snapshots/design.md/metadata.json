@@ -1,0 +1,22 @@
+{
+  "filePath": ".spec-workflow/specs/Web-Calculator/design.md",
+  "currentVersion": 2,
+  "snapshots": [
+    {
+      "version": 1,
+      "filename": "snapshot-001.json",
+      "timestamp": "2026-01-07T08:24:21.850Z",
+      "trigger": "initial",
+      "approvalId": "approval_1767774261844_3rsq63spz",
+      "approvalTitle": "Design Document - Web Calculator"
+    },
+    {
+      "version": 2,
+      "filename": "snapshot-002.json",
+      "timestamp": "2026-01-07T08:28:04.659Z",
+      "trigger": "approved",
+      "approvalId": "approval_1767774261844_3rsq63spz",
+      "approvalTitle": "Design Document - Web Calculator"
+    }
+  ]
+}
