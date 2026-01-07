@@ -1,0 +1,22 @@
+{
+  "filePath": ".spec-workflow/steering/tech.md",
+  "currentVersion": 2,
+  "snapshots": [
+    {
+      "version": 1,
+      "filename": "snapshot-001.json",
+      "timestamp": "2026-01-07T13:30:59.034Z",
+      "trigger": "initial",
+      "approvalId": "approval_1767792659031_nsz1yozop",
+      "approvalTitle": "Technology Stack Document"
+    },
+    {
+      "version": 2,
+      "filename": "snapshot-002.json",
+      "timestamp": "2026-01-07T13:57:26.281Z",
+      "trigger": "approved",
+      "approvalId": "approval_1767792659031_nsz1yozop",
+      "approvalTitle": "Technology Stack Document"
+    }
+  ]
+}
